@@ -1,4 +1,11 @@
 ## File Integrity Monitoring Script
+*COMPANY*: CODETECH IT SOLUTIONS 
+*NAME*: AMIRISHETTI VAISHNAVI 
+*INTERN ID*: CTIS05S107
+*DOMAIN*: CYBERSECURITY AND ETHICAL HACKING 
+*DURATION*: 4WEEKS
+*MENTOR*: NEELA SANTOSH 
+
 This Python script provides tools to efficiently check the integrity of files within a directory by comparing their hashes against a known list of valid hashes.
 
 ### Features
